@@ -1,4 +1,6 @@
 # Nao-golf主要识别红球和移动py文件
+
+
 class MyClass(GeneratedClass):
     def __init__(self):
         GeneratedClass.__init__(self)
